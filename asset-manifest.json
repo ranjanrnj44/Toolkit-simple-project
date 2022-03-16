@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toolkit-simple-project/static/css/main.7f4bb578.css",
+    "main.js": "/Toolkit-simple-project/static/js/main.fe170c7e.js",
+    "static/js/787.f8784ccf.chunk.js": "/Toolkit-simple-project/static/js/787.f8784ccf.chunk.js",
+    "index.html": "/Toolkit-simple-project/index.html",
+    "main.7f4bb578.css.map": "/Toolkit-simple-project/static/css/main.7f4bb578.css.map",
+    "main.fe170c7e.js.map": "/Toolkit-simple-project/static/js/main.fe170c7e.js.map",
+    "787.f8784ccf.chunk.js.map": "/Toolkit-simple-project/static/js/787.f8784ccf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4bb578.css",
+    "static/js/main.fe170c7e.js"
+  ]
+}
